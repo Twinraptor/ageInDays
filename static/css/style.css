@@ -1,0 +1,9 @@
+.buttonsbox {
+  display: flex;
+  border: 1px solid black;
+  padding: 10px;
+  justify-content: space-around;
+}
+.buttonsbox div {
+  padding: 10px;
+}
